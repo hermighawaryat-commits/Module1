@@ -4,7 +4,7 @@ people = ["sami", "abebe", "chala"]
 
 def split_bill(total, people, tip_rate=0.10):
 
-    if len(people) <= 0:
+    if len(people) == 0:
        return("Number of people must be greater than zero")
 
     tip_amount = total * tip_rate

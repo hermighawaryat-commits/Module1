@@ -1,0 +1,8 @@
+Abebe,150
+Kebede,200
+Abebe,75
+Marta,300
+Kebede,50
+Selam,120
+Marta,60
+ 
